@@ -5,8 +5,6 @@
 
 *Uma extensão simples e poderosa para o Google Chrome (Manifest V3) que permite destacar todos os links de uma página com a sua cor preferida.*
 
-![Demo da Extensão](https://i.imgur.com/gU82p5u.gif)
-*Substitua o link acima por um GIF ou screenshot do seu projeto em ação!*
 
 ## 📖 Sobre o Projeto
 
